@@ -1,4 +1,4 @@
-# start-with-an-idea
+# Start With an Idea
 Notes for a training/learning course for developing ideas into something real
 - What are you building?
 - What does it do?
